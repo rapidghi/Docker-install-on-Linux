@@ -22,8 +22,8 @@ To use this script, you can clone the repository or directly download the `insta
 ### Cloning and Running
 
 ```bash
-git clone https://your-repository-url-here
-cd your-repository-directory
+git clone https://github.com/rapidghi/Docker-install-on-Linux
+cd Docker-install-on-Linux
 chmod +x install_docker.sh
 sudo ./install_docker.sh
 ```
@@ -31,7 +31,7 @@ sudo ./install_docker.sh
 ### Direct Download and Execution
 
 ```bash
-curl -O https://raw.githubusercontent.com/your-username/your-repository-name/main/install_docker.sh
+curl -O https://raw.githubusercontent.com/rapidghi/Docker-install-on-Linux/main/install_docker.sh
 chmod +x install_docker.sh
 sudo ./install_docker.sh
 ```
